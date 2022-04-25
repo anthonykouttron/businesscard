@@ -1,7 +1,7 @@
 # PCB Business Card with QR and NFC
 
 Here is my latest and greatest PCB business card, designed in KiCad 5.0. The KiCad files and gerber files are included for reuse. The procedure on how to create this business card from scratch are on my website here:<br />
-https://salvagedcircuitry.com/pcb-business-card
+https://salvagedcircuitry.com/pcb-business-card.html
 
 <img src="https://i.imgur.com/7WYJcrv.jpg" title="source: imgur.com" />
 
